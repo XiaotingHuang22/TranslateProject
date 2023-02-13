@@ -2,28 +2,32 @@
 [#]: via: "https://www.opensourceforu.com/2022/06/its-time-to-contributing-to-open-source/"
 [#]: author: "Abbinaya Kuzhanthaivel https://www.opensourceforu.com/author/abbinaya-swath/"
 [#]: collector: "lkxed"
-[#]: translator: " "
+[#]: translator: "XiaotingHuang22"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "
 
-“It’s time to contribute to open source”
+“It’s time to contribute to open source是时候为开源做贡献了”
 ======
-Nilesh Vaghela is an AWS community hero and founder, ElectroMech Corporation, a cloud and open source company. According to him, contributing to open source is a rewarding act in itself. However, it needs commitment and there are many steps involved in the process, right from selecting a project to ensuring your contribution is noticed. In a conversation with Abbinaya Kuzhanthaivel of OSFY, he shares a few tips on how developers can help to improve India’s contributions to open source.
+Nilesh Vaghela 是 AWS 社区的英雄和一家云计算开源公司ElectroMech Corporation的创始人。据Nilesh说，为开源做出贡献本身就是一种有意义的事。 但是，它需要人们的投入和奉献，而这个过程涉及许多步骤，从选择项目到确保您的贡献成果获得关注。在与 OSFY的 Abbinaya Kuzhanthaivel 的对话中，他分享了一些关于开发人员如何帮助改善印度对开源的贡献的技巧。
+
 
 ![Nilesh Vaghela, 
-AWS community hero and 
-founder, ElectroMech Corporation][1]
+AWS 的社区英雄以及ElectroMech公司的创始人][1]
 
-##### Q. Can you tell us a bit about your current role and contributions to open source.
+##### Q. Can you tell us a bit about your current role and contributions to open source.问： 您能告诉我们一下您目前的角色和对开源的贡献吗？
 
 **A.** I am currently an architect working on automation. I lead multiple teams and also contribute majorly to Invinsense, an open source security service platform. I started open source groups in early 1998 and had around 1500 members even then. A group (https://groups.google.com/g/vglug) I am handling now has been very active since 2014-15.
+**答：** 我目前是一名从事自动化工作的架构师。我领导多个团队，并且主要在开源安全服务平台 Invinsense 上作出贡献。我在 1998 年初创建了开源小组，当时已经有大约 1500 名成员。我现在处理的一个小组 (https://groups.google.com/g/vglug) 自 2014-15 年以来一直非常活跃。
 
-##### Q. How did you start working with open source projects?
+##### Q. How did you start working with open source projects?问：您是如何开始在开源项目中工作的？
 
 **A.** I am a mechanical engineer by qualification, and was dealing with modems and UPS systems at my firm ElectroMech Corporation. I slowly got dragged into handling PCs, networking and Linux. I started experimenting in 1996 after getting inspired by seeing over 150 computer servers running on Linux at a Nuclear Science Centre. That’s when I converted my company entirely, focusing on open source for training and support.
+**答：** 我是一名有着从业资格证的机械工程师，当时我在我的公司 ElectroMech Corporation 处理调制解调器和 UPS 系统。我慢慢地陷入了奔波于处理 PC、网络和Linux的困境。1996 年，我在核科学中心看到超过 150 台计算机服务器在 Linux 上运行时广受启发，便开始进行实验。自此我将我的公司完全转变为专注于培训和支持的开源公司。
 
 I can proudly say that I was one of the first and early adopters of open source — helping customers to understand what is open source, what are its benefits, what’s available for free, security or code issues, and so on. We got at least four or five customers in Vadodara supporting us, and we eventually promoted ourselves through advertisements in the Yellow Pages. We partnered with Red Hat and the journey continues till now.
+我可以自豪地说，我是最早一批使用开源的人——帮助客户了解什么是开源、它有什么好处、什么是免费的、安全或代码问题等等。我们在巴罗达得到了至少四五个客户的支持，并且最终通过黄页上的广告宣传了自己。我们与 Red Hat 合作并且关系一直持续到现在。
+
 
 ##### Q. How do you think open source has evolved since then?
 
