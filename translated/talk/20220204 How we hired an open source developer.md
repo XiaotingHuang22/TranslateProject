@@ -2,26 +2,26 @@
 [#]: via: "https://opensource.com/article/22/2/how-we-hired-open-source-developer"
 [#]: author: "Mike Bursell https://opensource.com/users/mikecamel"
 [#]: collector: "lujun9972"
-[#]: translator: " "
+[#]: translator: "XiaotingHuang22"
 [#]: reviewer: " "
 [#]: publisher: " "
 [#]: url: " "
 
-How we hired an open source developer
+我们如何聘请开源开发人员
 ======
-My team opted out of the standard algorithm coding exercise for a
-process that yielded more relevant results.
-![people in different locations who are part of the same team][1]
+我的团队不再采用标准的算法编程练习，而是采用一套能够产出更多相关成果的流程。
+![同一团队里来自不同地方的人][1]
 
-As the CEO and co-founder of [Profian][2], a start-up security company, I've been part of our effort to hire developers to work on [Enarx][3], a security project that deals with confidential computing, written almost exclusively in [Rust][4] (with a bit of Assembly). Profian has now found all the people it was looking for in this search, with a couple of developers due to start in the next few weeks. However, new contributors are absolutely welcome to Enarx, and if things continue to go well, the company will definitely want to hire more folks in the future.
+作为初创安全公司 [Profian][2] 的首席执行官和联合创始人，我参与了我们聘请开发人员从事 [Enarx][3] 的工作。Enarx是一个处理机密信息计算的安全项目，几乎完全用 [Rust语言][4] 编写（少部分用Assembly）。 Profian 现在已经在这次搜索中找到了所有要找的人，一些开发人员将在接下来的几周内开始工作。然而，Enarx 绝对欢迎新的贡献者，如果事情继续顺利，公司将来肯定会雇用更多的人。
 
-Hiring people is not easy, and Profian had a set of specialized requirements that made the task even more difficult. I thought it would be useful and interesting for the community to share how we approached the problem.
+招聘人员并不容易，加上Profian还有一系列特别的要求，这让招人变得更加困难。因此我认为分享我们如何解决这个问题应该还蛮有意思的，而且也会对社区有帮助。
 
-### What were we looking for?
+### 我们寻找什么样的人？
 
-These are the specialized requirements I'm talking about:
+以下就是我前文提到的特别要求：
 
   * **Systems programming:** Profian mainly needs people who are happy programming at the systems layer. This is pretty far down the stack, with lots of interactions directly with hardware or the OS. To create client-server pieces, for instance, we have to write quite a lot of the protocols, manage the crypto, and so forth, and the tools for this aren't all very mature (see "Rust" below).
+* **系统编程：** Profian主要需要那些喜欢系统层编程的人。 这是相当远的堆栈，有很多直接与硬件或操作系统的交互。 例如，要创建客户端-服务器部分，我们必须编写相当多的协议、管理加密等等，而这方面的工具还不是很成熟（请参阅下面的“Rust”）。
 
   * **Rust:** Almost all of the project is written in Rust, and what isn't is written in Assembly language (currently exclusively x86, though that may change as we add more platforms). Rust is new, cool, and exciting, but it's still quite young, and some areas don't have all the support you might like or aren't as mature as you'd hope—everything from cryptography through multithreading libraries and compiler/build infrastructure.
 
