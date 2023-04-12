@@ -7,7 +7,7 @@
 [#]: publisher: " "
 [#]: url: " "
 
-Open source runs on non-code contributions
+开源项目的运行离不开非代码贡献
 ======
 有时成为开源贡献者最困难的部分是意识到你必须付出多少。
 
