@@ -7,7 +7,7 @@
 [#]: publisher: " "
 [#]: url: " "
 
-Open source runs on non-code contributions
+开源的项目的运行离不开非代码贡献
 ======
 有时成为开源贡献者最困难的部分是意识到你必须付出多少。
 
@@ -60,9 +60,9 @@ Open source runs on non-code contributions
 
 图片来源: (John Picozzi, CC BY-SA 4.0)
 
-Remember to follow your skills and interests. You have them, so use them to inspire your contributions. Your interests may differ from your skills: You could decide to contribute to something you have little experience with but always wanted to know more about. Simply talk to people, share knowledge, ask questions, go to a camp or a meetup, and contribute.请记住遵从自己的技能和兴趣。 你已经拥有了技能和兴趣，请用它们来激发你的贡献。 你的兴趣可能和你的技能不同：你可以决定为几乎没有经验但一直想了解更多的事情做出贡献。 只需与人交谈、分享知识、提出问题、参加露营或聚会并做出贡献。
+请记住遵从自己的技能和兴趣。 你已经拥有了技能和兴趣，请用它们来激发你的贡献。 你的兴趣可能和你的技能不同：有些事情可能是你几乎没有经验但却一直想了解更多的，你也可以决定为此做出贡献。 单纯地与人交谈、分享知识、提出问题、参加露营或线下见面，并做出贡献。
 
-I want to close with a quote by Margaret Mead (an American anthropologist) that perfectly describes open source contribution to me: "Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has." Dr. Mead doesn't say "a small group of code writers or developers." She says a thoughtful, committed group of citizens—citizens with great passion and many different skills. That's what powers open source, and that's what powers Drupal.我想引用玛格丽特·米德（美国人类学家）的话来结束对我的开源贡献的完美描述：“永远不要怀疑一小群有思想、有奉献精神的公民可以改变世界。事实上，世界的改变只能依靠这个了。” 米德博士并没有说“一小群代码编写者或开发人员”。 她说，这是一群有思想、有奉献精神的公民——他们有着极大的热情和许多不同的技能。 这就是开源的动力，也是 Drupal 的动力。
+我想引用玛格丽特·米德（美国人类学家）的话来结束对我的开源贡献的完美描述：“永远不要怀疑一小群有思想、有奉献精神的公民可以改变世界。事实上，世界的改变只能依靠这个了。” 米德博士并没有说“一小群代码编写者或开发人员”。 她说，这是一群有思想、有奉献精神的公民——他们有着极大的热情和许多不同的技能。 这就是开源的动力，也是 Drupal 的动力。
 
 在文章下方观看完整视频或者在 [YouTube 上][6].
 
